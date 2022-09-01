@@ -27,7 +27,11 @@
 	<div class="container">
 
 		<header>
+<<<<<<< HEAD
 			<h1>GamutKart official Store2 . DEVOPS-TRAINING: 9739368768 ...</h1>
+=======
+			<h1>GamutKart official Store3 . DEVOPS-TRAINING: 9739368768 ...</h1>
+>>>>>>> 152bbcd7276dd57f3dd1406e4fa1c214e1868b1a
 		</header>
 
 		<div id="tabs">
