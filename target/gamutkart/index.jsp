@@ -81,7 +81,7 @@
 				</p>
 			</div>
 			<div id="tabs-3">
-				<p>Ansible is a configuration management tool or devops tools
+				<p>Ansible is the configuration management tool or devops tools
 					that is similar to Puppet and Chef.</p>
 				<p>Ansible is a very simple configuration language, I would say.
 					A beginner can write a basic script and deploy a few cloud
