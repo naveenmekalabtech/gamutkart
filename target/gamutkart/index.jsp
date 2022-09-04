@@ -42,7 +42,7 @@
 				<li><a href="#tabs-4">Mobiles</a></li>
 			</ul>
 			<div id="tabs-1">
-				<p>Jenkins is the powerful application that allows continuous
+				<p>Jenkins is on of the powerful application that allows continuous
 					integration and continuous delivery of projects, regardless of the
 					platform you are working on. It is a free source that can handle
 					any kind of build or continuous integration. You can integrate
