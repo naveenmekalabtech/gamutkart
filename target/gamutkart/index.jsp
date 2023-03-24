@@ -27,11 +27,7 @@
 	<div class="container">
 
 		<header>
-<<<<<<< HEAD
-			<h1>GamutKart official Store2 . DEVOPS-TRAINING: 9739368768 ...</h1>
-=======
-			<h1>GamutKart official Store3 . DEVOPS-TRAINING: 9739368768 ...</h1>
->>>>>>> 152bbcd7276dd57f3dd1406e4fa1c214e1868b1a
+			<h1>GamutKart official Store . DEVOPS-TRAINING: 9739368768 ...</h1>
 		</header>
 
 		<div id="tabs">
@@ -42,7 +38,7 @@
 				<li><a href="#tabs-4">Mobiles</a></li>
 			</ul>
 			<div id="tabs-1">
-				<p>Jenkins is powerful application that allows continuous
+				<p>Jenkins is one of the powerful application that allows continuous
 					integration and continuous delivery of projects, regardless of the
 					platform you are working on. It is a free source that can handle
 					any kind of build or continuous integration. You can integrate
@@ -60,7 +56,7 @@
 					Docker has <a
 						href="http://www.actonmagic.com/blog/container-vs-virtualization/">revolutionized
 						containerization</a> of applications allowing Devops to package any
-					application in a lightweight environment. The packaging done in
+					application in a lightweight environment. The packaging is done in
 					a way which makes it as easy as installing a mobile app.It is
 					considered as most popular devops tools
 				</p>
@@ -81,7 +77,7 @@
 				</p>
 			</div>
 			<div id="tabs-3">
-				<p>Ansible is one of the configuration management tool or devops tools
+				<p>Ansible is a configuration management tool or devops tools
 					that is similar to Puppet and Chef.</p>
 				<p>Ansible is a very simple configuration language, I would say.
 					A beginner can write a basic script and deploy a few cloud
